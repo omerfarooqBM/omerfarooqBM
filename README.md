@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Omer Farooq 👨‍💻💻💻 Full Stack Developer .🇵🇰
+### I'm Omer Farooq 👨‍💻💻💻 Web Developer .🇵🇰
 <hr style="height: 1px;">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/omerfarooqBM)<br />
@@ -11,6 +11,7 @@
 ##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
 
 - 👨‍💻 I am currently working on Javascript & React
+- - 🌱 I am currently working in firebase database
 - 🌱 I am currently learning Mongodb
 - 💫 Looking to contribute to open-source
 
@@ -36,8 +37,6 @@
 <img style="margin: 0 5px;" src='./tech-images/redux.svg'  width="30" height="30" alt='Redux' />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img  style="margin: 0 5px;"src='./tech-images/Babel_Logo.png'  width="50" height="30" alt='BableJs' />
-<img style="margin: 0 5px;" src='./tech-images/tailwindlogo.png'  width="30" height="25" alt='Tailwindcss' />
 </div>
 
 <br />
@@ -92,7 +91,7 @@
 
 <br />
 
-#### 📊 Stats :
+<!-- #### 📊 Stats :
 
 <div style="display: flex;">
 
@@ -100,3 +99,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarooqBM&theme=highcontrast&langs_count=8)](https://omerfarooqBM.github.io/Stats.github.io/)
+ -->
