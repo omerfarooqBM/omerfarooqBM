@@ -98,5 +98,4 @@
 [![Omer Farooq github stats](https://github-readme-stats.vercel.app/api?username=omerfarooqBM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarooqBM&theme=highcontrast&langs_count=8)](https://omerfarooqBM.github.io/Stats.github.io/)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarooqBM&theme=highcontrast&langs_count=8)](https://junaid20001.github.io/Stats.github.io/)
