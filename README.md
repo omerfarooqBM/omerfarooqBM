@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Stats (Public)**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerfarooqBM&show_icons=true&theme=radical)
 
@@ -61,5 +61,3 @@ I’m always open to collaborating on exciting projects or discussing tech. Feel
 Let’s build something amazing together! 🚀
 
 ---
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=omerfarooqBM)
