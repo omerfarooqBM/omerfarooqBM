@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 ## 📫 **Let’s Connect!**
 I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out!
 
-- **Email**: [your.email@example.com](omer91999@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/omerfmz)
+- **Email**: [omer91999@gmail.com](omer91999@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/omerfmz](https://www.linkedin.com/in/omerfmz)
 
 ---
 
@@ -62,4 +62,4 @@ Let’s build something amazing together! 🚀
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=omerfarooqBM.omerfarooqBM)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=omerfarooqBM)
