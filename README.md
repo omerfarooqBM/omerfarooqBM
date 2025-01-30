@@ -1,101 +1,65 @@
-### Hi there 👋
+# 👋 Hi, I’m Omer Farooq- Full Stack Developer & DevOps Enthusiast
 
-### I'm Omer Farooq 👨‍💻💻💻 Web Developer .🇵🇰
-<hr style="height: 1px;">
+Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with expertise in **MERN (MongoDB, Express.js, React, Node.js)** and **PERN (PostgreSQL, Express.js, React, Node.js)** stacks. I also have hands-on experience in **DevOps** for seamless deployments and CI/CD pipelines. I love building scalable, efficient, and user-friendly applications.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/omerfarooqBM)<br />
-[![Ask Me Anything What You Wan't !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/omerfarooqBM)
+---
 
+## 🛠️ **Tech Stack**
 
+### **Frontend**
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries**: React.js, Redux, Next.js, Tailwind CSS, Bootstrap
+- **Tools**: Webpack, Vite, Babel, ESLint, Prettier
 
-##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
+### **Backend**
+- **Languages**: JavaScript (Node.js), Python, Go
+- **Frameworks**: Express.js, Nest.js, Django, Flask
+- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
+- **APIs**: RESTful APIs, GraphQL, WebSocket
 
-- 👨‍💻 I am currently working on Javascript & React
-- - 🌱 I am currently working in firebase database
-- 🌱 I am currently learning Mongodb
-- 💫 Looking to contribute to open-source
+### **DevOps & Deployment**
+- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Azure, Heroku, Vercel, Netlify
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI/CD
+- **Monitoring**: Prometheus, Grafana, New Relic
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
 
-<!-- <h4 align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/omerfaooqBM" />
-</h4> -->
-<!-- 
-<img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>"/> -->
+### **Other Tools**
+- **Testing**: Jest, Mocha, Chai, Cypress, Selenium
+- **Project Management**: Jira, Trello, Asana
+- **Collaboration**: Slack, Microsoft Teams, Discord
 
-<!-- <hr style='height: 1px;' /> -->
+---
 
-####  🔥 Tech Stacks :
-<br />
+## 🌟 **What I Bring to the Table**
+- **Full Stack Expertise**: From designing responsive UIs to building robust backend systems.
+- **DevOps Knowledge**: Streamlining deployments, automating workflows, and ensuring high availability.
+- **Problem-Solving Skills**: Debugging, optimizing performance, and delivering scalable solutions.
+- **Collaboration**: Experience working in Agile teams and delivering projects on time.
 
-##### ⚡️ Fronted :
+---
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
-<img style="margin: 0 5px;" src='./tech-images/react.svg'  width="30" height="30" alt='React' />
-<img style="margin: 0 5px;" src='./tech-images/react-native.png'  width="30" height="30" alt='React' />
-<img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
-<img style="margin: 0 5px;" src='./tech-images/redux.svg'  width="30" height="30" alt='Redux' />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</div>
+## 📈 **GitHub Stats**
 
-<br />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerfarooqBM&show_icons=true&theme=radical)
 
-##### ⚡️ Backend :
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarooqBM&layout=compact&theme=radical)
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/nodejs.svg'  width="50" height="50" alt='NodeJs' />
-<img style="margin: 0 5px;" src='./tech-images/python.svg'  width="50" height="30" alt='Python' />
-</div>
+---
 
-<br />
+## 📫 **Let’s Connect!**
+I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out!
 
-##### ⚡️ Other's Backend :
+- **Email**: [your.email@example.com](omer91999@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/omerfmz)
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/firebase.png'  width="40" height="40" alt='Firebase' />
-<img style="margin: 0 5px;" src='./tech-images/mongodb.svg'  width="40" height="40" alt='Mongodb' />
-</div>
+---
 
-<br />
+⭐ **Star my repositories if you find them useful!**  
+💡 **Open to new opportunities and challenges.**
 
-##### 🌟 Learning :
+Let’s build something amazing together! 🚀
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/netlify.svg'  width="30" height="40" alt='Netlify' />
-<img style="margin: 0 5px;" src='./tech-images/mysql.svg'  width="50" height="50" alt='MySql' />
-<img  style="margin: 0 5px;"src='./tech-images/surge.svg'  width="50" height="30" alt='Surge.sh' />
+---
 
-</div>
-
-<br />
-
-#### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="mailto:omer91999@gmail.com">
-<img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/> 
-</a>
-<a href="https://instagram.com/omerfmz">
-<img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor= #fb3958 RGB"/> 
-</a>
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/> 
-</a>
-
-
-<br />
-
-<!-- #### 📊 Stats :
-
-<div style="display: flex;">
-
-[![Omer Farooq github stats](https://github-readme-stats.vercel.app/api?username=omerfarooqBM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarooqBM&theme=highcontrast&langs_count=8)](https://junaid20001.github.io/Stats.github.io/)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=omerfarooqBM.omerfarooqBM)
