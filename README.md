@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://omerfarooqbm.github.io"><img src="https://img.shields.io/badge/portfolio-omerfarooqbm.github.io-2a78d6?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
   <img src="https://komarev.com/ghpvc/?username=omerfarooqBM&label=profile%20views&color=2a78d6&style=flat-square" alt="Profile views" />
   <a href="#-github-activity"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FomerfarooqBM%2FomerfarooqBM%2Fmain%2Fassets%2Fbadges%2Fcontributions.json&style=flat-square&logo=github&logoColor=white" alt="Total contributions" /></a>
   <a href="#-github-activity"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FomerfarooqBM%2FomerfarooqBM%2Fmain%2Fassets%2Fbadges%2Fthis-year.json&style=flat-square&logo=github&logoColor=white" alt="Contributions this year" /></a>
@@ -248,6 +249,7 @@ The terminal, activity and city cards are drawn by [`scripts/generate.mjs`](http
 ## 🤝 Connect
 
 <p align="center">
+  <a href="https://omerfarooqbm.github.io"><img src="https://img.shields.io/badge/Portfolio-2A78D6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
   <a href="https://www.linkedin.com/in/omerfmz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:omer91999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/omerfarooqBM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
