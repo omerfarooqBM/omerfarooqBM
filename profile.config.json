@@ -1,0 +1,15 @@
+{
+  "username": "omerfarooqBM",
+  "prompt": "omer@github",
+  "command": "neofetch --profile",
+  "about": [
+    ["Role", "Software & AI Engineer"],
+    ["Focus", "LLM agents · Document AI · Full-stack SaaS"],
+    ["Languages", "TypeScript · JavaScript · Python"],
+    ["Frontend", "React · Next.js · React Native · Tailwind"],
+    ["Backend", "Node.js · NestJS · Express · FastAPI"],
+    ["AI / ML", "Claude · Gemini · OpenAI · LangChain · PyTorch"],
+    ["Automation", "n8n · BullMQ · Puppeteer · Ollama"],
+    ["Data & Cloud", "PostgreSQL · MongoDB · Redis · Docker · AWS"]
+  ]
+}
