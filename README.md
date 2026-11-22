@@ -205,11 +205,11 @@ Most of my work lives in private client repositories, so every number on this pa
 | 88 | 197 | 238 | 201 | 203 | 116 | 214 | 357 | 217 | 191 | 128 | 53 |
 
 - **All-time:** 5,067 contributions since May 2019
-- **Last 12 months:** 2,255 contributions across 276 active days
+- **Last 12 months:** 2,255 contributions across 270 active days
 - **Streaks:** 52 days longest (25 Mar – 15 May 2026)
 - **Best day:** 62 contributions on 27 Jan 2026 · most active on Tuesdays
 
-<sub>Refreshed automatically · last update 21 Nov 2026</sub>
+<sub>Refreshed automatically · last update 22 Nov 2026</sub>
 
 <!-- stats:end -->
 
