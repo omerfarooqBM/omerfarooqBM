@@ -209,7 +209,7 @@ Most of my work lives in private client repositories, so every number on this pa
 - **Streaks:** 3 days current · 52 days longest (25 Mar – 15 May 2026)
 - **Best day:** 62 contributions on 27 Jan 2026 · most active on Tuesdays
 
-<sub>Refreshed automatically · last update 25 Nov 2026</sub>
+<sub>Refreshed automatically · last update 26 Nov 2026</sub>
 
 <!-- stats:end -->
 
