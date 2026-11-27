@@ -196,20 +196,20 @@ Most of my work lives in private client repositories, so every number on this pa
 
 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 374 | 126 | 49 | 1,381 | 1,021 | 2,127 |
+| 374 | 126 | 49 | 1,381 | 1,021 | 2,128 |
 
 **Last 12 months**
 
 | Dec ’25 | Jan ’26 | Feb ’26 | Mar ’26 | Apr ’26 | May ’26 | Jun ’26 | Jul ’26 | Aug ’26 | Sep ’26 | Oct ’26 | Nov ’26 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 88 | 197 | 238 | 201 | 203 | 116 | 214 | 357 | 217 | 191 | 128 | 65 |
+| 88 | 197 | 238 | 201 | 203 | 116 | 214 | 357 | 217 | 191 | 128 | 66 |
 
-- **All-time:** 5,079 contributions since May 2019
-- **Last 12 months:** 2,226 contributions across 273 active days
-- **Streaks:** 3 days current · 52 days longest (25 Mar – 15 May 2026)
+- **All-time:** 5,080 contributions since May 2019
+- **Last 12 months:** 2,227 contributions across 274 active days
+- **Streaks:** 52 days longest (25 Mar – 15 May 2026)
 - **Best day:** 62 contributions on 27 Jan 2026 · most active on Tuesdays
 
-<sub>Refreshed automatically · last update 26 Nov 2026</sub>
+<sub>Refreshed automatically · last update 27 Nov 2026</sub>
 
 <!-- stats:end -->
 
