@@ -22,7 +22,7 @@
 <rect x=".5" y=".5" width="899" height="359" rx="12" fill="#0d1117" stroke="rgba(255,255,255,0.10)"/>
 <text x="28" y="42" class="title">GitHub activity</text>
 <text x="28" y="62" class="subtitle">Every contribution counted, private repositories included</text>
-<text x="872" y="42" class="subtitle" text-anchor="end">Updated 27 Nov 2026</text>
+<text x="872" y="42" class="subtitle" text-anchor="end">Updated 28 Nov 2026</text>
 <g class="fade" style="animation-delay:0.05s">
 <text x="28" y="128" class="kpi" font-size="52">5,080</text>
 <text x="28" y="152" class="label">Total contributions</text>
